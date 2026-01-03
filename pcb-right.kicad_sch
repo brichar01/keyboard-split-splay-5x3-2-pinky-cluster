@@ -1,0 +1,6045 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2a2bdc0b-9905-4f3c-b566-20b17e56decd")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "XIAO-RP2040-DIP"
+				(at 5.334 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+				(at 14.478 -32.258 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "XIAO-RP2040-DIP_1_0"
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy 29.21 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -1.27 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -8.89) (xy -2.54 -8.89)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -8.89) (xy -1.27 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -12.7) (xy -2.54 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -12.7) (xy -1.27 -8.89)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -16.51) (xy -2.54 -16.51)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -16.51) (xy -1.27 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -20.32) (xy -2.54 -20.32)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -24.13) (xy -2.54 -24.13)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -27.94) (xy -2.54 -27.94)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -30.48) (xy -1.27 -16.51)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -2.54) (xy 29.21 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -5.08) (xy 29.21 -8.89)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -8.89) (xy 29.21 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -12.7) (xy 29.21 -30.48)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -30.48) (xy -1.27 -30.48)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -5.08) (xy 29.21 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -8.89) (xy 29.21 -8.89)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -12.7) (xy 29.21 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -16.51) (xy 29.21 -16.51)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -20.32) (xy 29.21 -20.32)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -24.13) (xy 29.21 -24.13)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -27.94) (xy 29.21 -27.94)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -3.81 -5.08 0)
+					(length 2.54)
+					(name "GPIO26/ADC0/A0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -8.89 0)
+					(length 2.54)
+					(name "GPIO27/ADC1/A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -12.7 0)
+					(length 2.54)
+					(name "GPIO28/ADC2/A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -16.51 0)
+					(length 2.54)
+					(name "GPIO29/ADC3/A3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -20.32 0)
+					(length 2.54)
+					(name "GPIO6/SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -24.13 0)
+					(length 2.54)
+					(name "GPIO7/SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -27.94 0)
+					(length 2.54)
+					(name "GPIO0/TX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -5.08 180)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -8.89 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -12.7 180)
+					(length 2.54)
+					(name "3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -16.51 180)
+					(length 2.54)
+					(name "GPIO3/MOSI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -20.32 180)
+					(length 2.54)
+					(name "GPIO4/MISO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -24.13 180)
+					(length 2.54)
+					(name "GPIO2/SCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -27.94 180)
+					(length 2.54)
+					(name "GPIO1/RX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "benri-projects:CONNECTOR_TENSILITY_54-00176"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 29.718 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/uploads/pdffiles/54-00176.pdf"
+				(at 0 -22.352 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "TRRS TR-SWITCHEDm 4C audio jack 3.5xL14 mm thru hole gold plated"
+				(at 0 -20.066 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CONNECTOR_TENSILITY_54-00176_0_1"
+				(polyline
+					(pts
+						(xy -2.286 7.62) (xy -1.524 6.858) (xy -3.048 6.858) (xy -2.286 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 -5.08) (xy -3.048 -4.318) (xy -1.524 -4.318) (xy -2.286 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 10.16) (xy -10.16 10.16) (xy -17.78 2.54) (xy -18.288 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 7.62) (xy -7.62 7.62) (xy -12.7 2.54) (xy -13.208 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 5.08) (xy -2.286 5.08) (xy -2.286 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -2.286 -2.54) (xy -2.286 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy -5.08 -5.08) (xy -10.16 -0.254) (xy -10.668 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -7.62) (xy -7.62 -7.62) (xy -15.24 -0.254) (xy -15.748 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CONNECTOR_TENSILITY_54-00176_1_1"
+				(rectangle
+					(start -21.844 12.192)
+					(end 0 -8.89)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 2.54 10.16 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 7.62 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -7.62 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "benri-projects:GENERIC_DIODE"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Val"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "~"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -11.684 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode"
+				(at 0 -8.128 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Component" "~"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SparkFun diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GENERIC_DIODE_0_1"
+				(polyline
+					(pts
+						(xy -0.762 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -1.016) (xy -0.762 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.016) (xy -0.762 0) (xy 0.762 1.016) (xy 0.762 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GENERIC_DIODE_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.778)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.778)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Component" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SW*MEC*5G*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GENERIC_ELECTROMECHANICAL_PUSHBUTTON_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GENERIC_ELECTROMECHANICAL_PUSHBUTTON_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 132.08 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01574d46-a063-4db4-9a01-8f9e07628d0e")
+	)
+	(junction
+		(at 76.2 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "068ac648-5f35-46aa-8cbd-f471a3451038")
+	)
+	(junction
+		(at 71.12 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e2b12cf-0270-4718-abaf-b0397751cee4")
+	)
+	(junction
+		(at 71.12 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2dd13f21-139a-4512-8715-5fe8c646c08c")
+	)
+	(junction
+		(at 127 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2efd5a1f-b03d-4bbb-b484-343e6e14f5ee")
+	)
+	(junction
+		(at 57.15 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3688895d-958d-4a6e-8c80-fa21b3309931")
+	)
+	(junction
+		(at 71.12 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40cc5136-02b1-4312-85fc-ac9b5e9b01d0")
+	)
+	(junction
+		(at 109.22 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43645ab2-c511-4a3a-a5ef-1eb3292c384c")
+	)
+	(junction
+		(at 76.2 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43f7036a-3c16-4d75-a623-abadadf28177")
+	)
+	(junction
+		(at 76.2 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46f3ce73-110f-4639-ae6e-8b33c69e7808")
+	)
+	(junction
+		(at 57.15 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49a0520b-0026-43b1-9217-ee533b8dd339")
+	)
+	(junction
+		(at 109.22 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5030149c-bd0c-4635-92d9-85c1be9f9394")
+	)
+	(junction
+		(at 95.25 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5deda0b7-fc3f-44b4-9bc3-c776c959bf28")
+	)
+	(junction
+		(at 95.25 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a94785e-2fb2-4cf5-bdc2-6d527cba2972")
+	)
+	(junction
+		(at 90.17 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f50a483-98f3-437e-91b9-e74cf0e121c9")
+	)
+	(junction
+		(at 113.03 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89e34e58-d014-4276-832e-1eec1e6914ed")
+	)
+	(junction
+		(at 57.15 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d01f3df-758e-4ed1-a8e4-7abcdbd9b4e9")
+	)
+	(junction
+		(at 90.17 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8da19f6b-3b5e-42d1-9acd-0aa971bff2a1")
+	)
+	(junction
+		(at 127 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90cfd294-0d59-4445-83e5-2d00a26a6fd7")
+	)
+	(junction
+		(at 90.17 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a742ba78-f0f8-453c-a9e2-bd7b28f617cb")
+	)
+	(junction
+		(at 71.12 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8d72ef2-e649-4a48-8ff8-3915d29a5f3f")
+	)
+	(junction
+		(at 109.22 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c347fe88-593b-4cda-983f-f3837255811b")
+	)
+	(junction
+		(at 127 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da247e28-33f3-406e-9051-835348c33c6f")
+	)
+	(junction
+		(at 149.86 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de4d5392-a5cc-41d5-a527-0d10ef95c607")
+	)
+	(junction
+		(at 132.08 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2a7dc97-a492-444f-944d-55485a56c683")
+	)
+	(junction
+		(at 113.03 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1405769-738f-4f3f-9b4e-3b5a99b54524")
+	)
+	(junction
+		(at 90.17 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9cfb2b4-66b0-4f63-a194-78fbb04f9657")
+	)
+	(wire
+		(pts
+			(xy 161.29 78.74) (xy 163.83 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "000dfae0-bc97-481d-a155-44b05713273e")
+	)
+	(wire
+		(pts
+			(xy 87.63 59.69) (xy 90.17 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0132078f-9aff-4b33-9bcd-0d515f9f948d")
+	)
+	(wire
+		(pts
+			(xy 57.15 78.74) (xy 58.42 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f0728b-d8ad-481b-889f-8bac9b76bc60")
+	)
+	(wire
+		(pts
+			(xy 243.84 119.38) (xy 246.38 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f3b64d-c044-479f-8c89-4455cce8a89c")
+	)
+	(wire
+		(pts
+			(xy 76.2 59.69) (xy 76.2 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f7c572-e876-4356-a86e-8cd9cd73b48a")
+	)
+	(wire
+		(pts
+			(xy 57.15 59.69) (xy 57.15 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "061b122b-b2ae-4dab-8b98-fc43fe8af12c")
+	)
+	(wire
+		(pts
+			(xy 113.03 78.74) (xy 114.3 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09b53e0e-bc2e-40a4-b453-0ec7d3da3b5c")
+	)
+	(wire
+		(pts
+			(xy 219.71 80.01) (xy 222.25 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cd9c434-32b8-4612-bd21-dfb21d60cfb0")
+	)
+	(wire
+		(pts
+			(xy 71.12 87.63) (xy 71.12 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0da1ac6b-e91e-4607-b15d-a04912b7acc7")
+	)
+	(wire
+		(pts
+			(xy 90.17 87.63) (xy 71.12 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dfe8f4d-48df-4913-b635-0d80d57eab6d")
+	)
+	(wire
+		(pts
+			(xy 90.17 116.84) (xy 90.17 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10f471ab-cd8f-4f03-a169-6ffc6b79494c")
+	)
+	(wire
+		(pts
+			(xy 205.74 119.38) (xy 208.28 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11214fb5-9b33-4f40-86ac-30db486305d0")
+	)
+	(wire
+		(pts
+			(xy 71.12 125.73) (xy 90.17 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15eecd2a-3c68-4b5b-9ff4-80c266db1b80")
+	)
+	(wire
+		(pts
+			(xy 106.68 97.79) (xy 109.22 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1616d0b9-3d85-4d3a-8f76-a2e8eab4e88d")
+	)
+	(wire
+		(pts
+			(xy 127 68.58) (xy 109.22 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1653d062-3973-4b80-90a4-1b9b8ef5a28e")
+	)
+	(wire
+		(pts
+			(xy 113.03 97.79) (xy 114.3 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "171f195b-a92c-47e2-a1f6-0fdd63389230")
+	)
+	(wire
+		(pts
+			(xy 90.17 125.73) (xy 167.64 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b57a3c9-b994-4c00-b1e3-02bd349579e6")
+	)
+	(wire
+		(pts
+			(xy 232.41 50.8) (xy 237.49 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c075caa-cc46-4b43-9791-72738070582b")
+	)
+	(wire
+		(pts
+			(xy 163.83 106.68) (xy 127 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ff480bb-0ebc-4366-a97a-a5a570756e26")
+	)
+	(wire
+		(pts
+			(xy 124.46 78.74) (xy 127 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20630bfa-f7c5-491b-be12-7afbbde47440")
+	)
+	(wire
+		(pts
+			(xy 132.08 52.07) (xy 149.86 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20ec98a4-b7ba-48e2-9429-4b0c674bba78")
+	)
+	(wire
+		(pts
+			(xy 124.46 97.79) (xy 127 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21d05ec5-139b-4a8b-9057-22f90fcebc82")
+	)
+	(wire
+		(pts
+			(xy 71.12 124.46) (xy 71.12 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2243c71b-bef3-4646-882e-984cff5d02b7")
+	)
+	(wire
+		(pts
+			(xy 87.63 97.79) (xy 90.17 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2493a6e4-8962-43ef-b45d-f559077d36df")
+	)
+	(wire
+		(pts
+			(xy 127 97.79) (xy 127 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "291af778-8e6c-4bd5-b95d-bf571f265107")
+	)
+	(wire
+		(pts
+			(xy 57.15 97.79) (xy 57.15 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2920615e-5e57-41ff-b335-71609017a4e6")
+	)
+	(wire
+		(pts
+			(xy 90.17 106.68) (xy 71.12 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b2e27ee-a211-447b-96ef-0cd46df14b06")
+	)
+	(wire
+		(pts
+			(xy 127 59.69) (xy 127 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dc2e8b7-1e9d-4d55-a73b-91102d076e92")
+	)
+	(wire
+		(pts
+			(xy 113.03 59.69) (xy 114.3 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2df81fea-ce93-493b-bd91-a34027bd41db")
+	)
+	(wire
+		(pts
+			(xy 127 87.63) (xy 146.05 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33ca97e2-b501-48df-96dd-a4d911728844")
+	)
+	(wire
+		(pts
+			(xy 205.74 107.95) (xy 208.28 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "342d03bf-6b07-4e18-87dd-1b4dd61e9024")
+	)
+	(wire
+		(pts
+			(xy 90.17 78.74) (xy 90.17 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3568e8e6-1b12-4967-899a-968e60273b8b")
+	)
+	(wire
+		(pts
+			(xy 143.51 78.74) (xy 146.05 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35c87244-5e69-4ac7-b440-cd5816ed8814")
+	)
+	(wire
+		(pts
+			(xy 68.58 97.79) (xy 71.12 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36ab0274-acf7-4cb4-aa6b-e69f2956fc72")
+	)
+	(wire
+		(pts
+			(xy 87.63 78.74) (xy 90.17 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3765087f-b419-432f-9046-be182bbb1718")
+	)
+	(wire
+		(pts
+			(xy 146.05 78.74) (xy 146.05 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39b4ab84-5865-46c7-9790-de2603709f15")
+	)
+	(wire
+		(pts
+			(xy 243.84 115.57) (xy 246.38 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b20a956-ba72-4354-b0e5-a58864ffaed4")
+	)
+	(wire
+		(pts
+			(xy 149.86 52.07) (xy 149.86 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c5aa317-afe7-48a6-b7bb-c1ae7dab679e")
+	)
+	(wire
+		(pts
+			(xy 143.51 59.69) (xy 146.05 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dc2db16-1eb7-40d3-a2df-c5f58725e68c")
+	)
+	(wire
+		(pts
+			(xy 90.17 86.36) (xy 90.17 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ec86624-26c4-417e-bed0-e37187ae6156")
+	)
+	(wire
+		(pts
+			(xy 205.74 127) (xy 208.28 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40b6cf8e-5886-4d66-9b74-f3dcc92f452d")
+	)
+	(wire
+		(pts
+			(xy 205.74 123.19) (xy 208.28 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4384af31-d625-4df6-9bca-194817e13a45")
+	)
+	(wire
+		(pts
+			(xy 95.25 97.79) (xy 96.52 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4530c0c3-f411-480f-98f2-01960eafd252")
+	)
+	(wire
+		(pts
+			(xy 149.86 59.69) (xy 149.86 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47ae288c-c191-4e24-93dd-2927b37b9ca5")
+	)
+	(wire
+		(pts
+			(xy 161.29 59.69) (xy 163.83 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a674079-aca4-4045-928a-a4a9b953814a")
+	)
+	(wire
+		(pts
+			(xy 76.2 49.53) (xy 76.2 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aa2cdf5-2012-45a2-8ebf-1da106547ad7")
+	)
+	(wire
+		(pts
+			(xy 76.2 59.69) (xy 77.47 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e0d96c3-9e6c-4bd8-afbd-1531efa21c7c")
+	)
+	(wire
+		(pts
+			(xy 52.07 125.73) (xy 71.12 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50cf0047-c6ad-4003-b09d-1a4787c68db4")
+	)
+	(wire
+		(pts
+			(xy 109.22 86.36) (xy 109.22 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53cba334-055d-4684-a78c-675f325bbc19")
+	)
+	(wire
+		(pts
+			(xy 113.03 49.53) (xy 113.03 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54f3c7b5-3d35-4df4-8208-986c248627de")
+	)
+	(wire
+		(pts
+			(xy 127 78.74) (xy 127 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54f85a82-2b74-4748-a86d-f0eb82d0c37b")
+	)
+	(wire
+		(pts
+			(xy 95.25 78.74) (xy 96.52 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cdeb2b2-ee28-4ba1-bdc8-ff508671e390")
+	)
+	(wire
+		(pts
+			(xy 76.2 97.79) (xy 76.2 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d978a75-c8f5-4954-b2a0-de2a28d931d9")
+	)
+	(wire
+		(pts
+			(xy 76.2 78.74) (xy 76.2 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ec3a74e-3dfa-4f13-a814-c8973a0a501f")
+	)
+	(wire
+		(pts
+			(xy 87.63 116.84) (xy 90.17 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fe0814b-65bd-46df-99d2-74095d357824")
+	)
+	(wire
+		(pts
+			(xy 68.58 116.84) (xy 71.12 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60d0b79f-37ac-4e37-a3ba-9028f1445814")
+	)
+	(wire
+		(pts
+			(xy 57.15 59.69) (xy 58.42 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62798d78-5f47-4a8e-82b6-05679bf8692d")
+	)
+	(wire
+		(pts
+			(xy 57.15 116.84) (xy 58.42 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "627f68ca-8197-424a-ac5e-3c7c30b7abc5")
+	)
+	(wire
+		(pts
+			(xy 57.15 97.79) (xy 58.42 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63177f2c-d4da-49be-bb48-9d04989a74ee")
+	)
+	(wire
+		(pts
+			(xy 146.05 67.31) (xy 146.05 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "636c6d07-f57e-46df-9bd7-1c8fb6e263ff")
+	)
+	(wire
+		(pts
+			(xy 243.84 107.95) (xy 246.38 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649ebdea-4107-4312-81ad-b987941a6db3")
+	)
+	(wire
+		(pts
+			(xy 163.83 86.36) (xy 163.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "659a941e-64a8-41bf-9177-7295c34575c7")
+	)
+	(wire
+		(pts
+			(xy 243.84 127) (xy 246.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65f9e92c-0f9f-4c61-adcc-d5511c848437")
+	)
+	(wire
+		(pts
+			(xy 109.22 67.31) (xy 109.22 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66205795-cbf3-4ed9-b480-65737aa40846")
+	)
+	(wire
+		(pts
+			(xy 109.22 68.58) (xy 90.17 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b5ba417-5bad-4202-a5db-45e3dc3e7569")
+	)
+	(wire
+		(pts
+			(xy 106.68 78.74) (xy 109.22 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71161fa5-fd71-4171-bc30-b8a5fb1228d3")
+	)
+	(wire
+		(pts
+			(xy 243.84 123.19) (xy 246.38 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "765adf17-1f87-46c4-9d03-9cee6d68c016")
+	)
+	(wire
+		(pts
+			(xy 232.41 68.58) (xy 237.49 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "776b4bba-18a6-4a58-a8f5-5bb4cf11f831")
+	)
+	(wire
+		(pts
+			(xy 109.22 106.68) (xy 90.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "794a2737-374a-43dc-ab5d-c293b903f272")
+	)
+	(wire
+		(pts
+			(xy 219.71 88.9) (xy 222.25 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c003820-d05c-4d45-a3fb-fd24e71d1f6c")
+	)
+	(wire
+		(pts
+			(xy 95.25 78.74) (xy 95.25 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c405693-ca17-42d7-b087-2cf04862f107")
+	)
+	(wire
+		(pts
+			(xy 109.22 106.68) (xy 127 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c7afa17-81c9-4019-886c-eb0b3df48cf8")
+	)
+	(wire
+		(pts
+			(xy 127 105.41) (xy 127 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dde7f95-eeec-4102-b4cc-8d265215d61b")
+	)
+	(wire
+		(pts
+			(xy 57.15 49.53) (xy 57.15 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "816608ce-3c1c-446e-b055-d4d89c539418")
+	)
+	(wire
+		(pts
+			(xy 68.58 78.74) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "832213dd-6663-4a0e-9bac-3a8513da5145")
+	)
+	(wire
+		(pts
+			(xy 243.84 111.76) (xy 246.38 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84418137-ce13-478b-9cad-8e9cc1c0bc0a")
+	)
+	(wire
+		(pts
+			(xy 146.05 59.69) (xy 146.05 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85658c28-3dd4-4225-892a-cea7d58c90b4")
+	)
+	(wire
+		(pts
+			(xy 90.17 105.41) (xy 90.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85dcfb63-04ff-4990-b56d-0d9c4e1fc0eb")
+	)
+	(wire
+		(pts
+			(xy 232.41 66.04) (xy 237.49 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "893efca0-460c-414c-9090-097804bbdbc9")
+	)
+	(wire
+		(pts
+			(xy 109.22 97.79) (xy 109.22 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ad9c525-7cbe-4d64-8a59-ccafa9506f8c")
+	)
+	(wire
+		(pts
+			(xy 76.2 78.74) (xy 77.47 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b9f608b-269a-440f-b530-ccff7723878d")
+	)
+	(wire
+		(pts
+			(xy 95.25 49.53) (xy 95.25 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c40d02e-5746-4a4f-9ee4-d9c8a97a41c5")
+	)
+	(wire
+		(pts
+			(xy 132.08 59.69) (xy 133.35 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dbdd2ba-28d7-4f09-b159-ce916f32f294")
+	)
+	(wire
+		(pts
+			(xy 167.64 125.73) (xy 167.64 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e85280f-2720-46b5-89bf-c7e03d764045")
+	)
+	(wire
+		(pts
+			(xy 163.83 78.74) (xy 163.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90eec413-3aa6-4872-a3c7-755a7ec11898")
+	)
+	(wire
+		(pts
+			(xy 132.08 59.69) (xy 132.08 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "939e9cc4-1f57-4219-ab72-b217adc2ba03")
+	)
+	(wire
+		(pts
+			(xy 52.07 106.68) (xy 71.12 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94206036-2c6a-46ef-b535-d6cf6f1a3ef5")
+	)
+	(wire
+		(pts
+			(xy 76.2 116.84) (xy 77.47 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c75343-1b14-440b-8f99-9d0da133b294")
+	)
+	(wire
+		(pts
+			(xy 109.22 59.69) (xy 109.22 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1df6e57-1d5e-4c89-a79d-30456e8d1bd3")
+	)
+	(wire
+		(pts
+			(xy 95.25 59.69) (xy 96.52 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2397d35-984b-4f70-af36-a826a83dcbd4")
+	)
+	(wire
+		(pts
+			(xy 71.12 78.74) (xy 71.12 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4ec4bd4-ca7e-47ca-a924-abf3a54de177")
+	)
+	(wire
+		(pts
+			(xy 109.22 87.63) (xy 90.17 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a75c6390-c383-4981-a2c7-7cbb9f39edb4")
+	)
+	(wire
+		(pts
+			(xy 90.17 68.58) (xy 71.12 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac52c5e5-9fce-408c-b62e-b8efc23b93b2")
+	)
+	(wire
+		(pts
+			(xy 149.86 59.69) (xy 151.13 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac96585e-33a3-49ff-8cfe-22205414d42a")
+	)
+	(wire
+		(pts
+			(xy 146.05 86.36) (xy 146.05 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af0ff9c4-8ff7-405c-b334-9f7c4f47630e")
+	)
+	(wire
+		(pts
+			(xy 146.05 68.58) (xy 127 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aff3f7a3-0b53-4f16-b083-f8713f8bdae9")
+	)
+	(wire
+		(pts
+			(xy 90.17 59.69) (xy 90.17 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3d97db6-a52e-49e0-90b4-97fc7c39fc15")
+	)
+	(wire
+		(pts
+			(xy 167.64 67.31) (xy 163.83 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b413630f-eb71-42e7-8ef0-0d85513b9c53")
+	)
+	(wire
+		(pts
+			(xy 90.17 125.73) (xy 90.17 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b57d3073-9e8b-4fc0-bc1c-2056c8e43dcc")
+	)
+	(wire
+		(pts
+			(xy 163.83 59.69) (xy 163.83 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba1fb943-90da-4b41-bc81-e777ecb540cc")
+	)
+	(wire
+		(pts
+			(xy 90.17 67.31) (xy 90.17 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcbe2adc-9892-4a89-9827-b6c7d89b6144")
+	)
+	(wire
+		(pts
+			(xy 71.12 97.79) (xy 71.12 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be6a1d8a-65e4-441b-a6a4-4434415b5414")
+	)
+	(wire
+		(pts
+			(xy 132.08 78.74) (xy 133.35 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c013cf59-908d-456c-8d7f-0e8b2178acc9")
+	)
+	(wire
+		(pts
+			(xy 205.74 104.14) (xy 208.28 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2e83816-0ca3-4725-b178-2ac12efa2d07")
+	)
+	(wire
+		(pts
+			(xy 232.41 53.34) (xy 237.49 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8a2f1f9-8a59-48a9-8423-30e76a180808")
+	)
+	(wire
+		(pts
+			(xy 132.08 49.53) (xy 132.08 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ceacd7-0c13-4595-996e-40a8c971508b")
+	)
+	(wire
+		(pts
+			(xy 109.22 105.41) (xy 109.22 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c95f3551-bbb9-46e2-b345-22e8d176d72b")
+	)
+	(wire
+		(pts
+			(xy 76.2 97.79) (xy 77.47 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cad8b7a3-ed02-4923-b7e1-e712ab8afadc")
+	)
+	(wire
+		(pts
+			(xy 149.86 78.74) (xy 151.13 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc58fada-d99c-4fb5-9f0d-08d073c9c6a1")
+	)
+	(wire
+		(pts
+			(xy 90.17 97.79) (xy 90.17 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d04eeaee-1a29-4429-b70a-d1c0481286f9")
+	)
+	(wire
+		(pts
+			(xy 219.71 82.55) (xy 222.25 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d12293b3-bd94-400a-837d-475cb6475532")
+	)
+	(wire
+		(pts
+			(xy 52.07 87.63) (xy 71.12 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3b53b74-c515-41f5-a2e9-50deb4bda58d")
+	)
+	(wire
+		(pts
+			(xy 71.12 116.84) (xy 71.12 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52daacf-91b6-4975-8003-e2921cc8dfb3")
+	)
+	(wire
+		(pts
+			(xy 124.46 59.69) (xy 127 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da277f63-35d6-4f17-a0b7-e70fc88de2e7")
+	)
+	(wire
+		(pts
+			(xy 113.03 78.74) (xy 113.03 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dacc0da7-82e4-4b21-933f-b404cac2b434")
+	)
+	(wire
+		(pts
+			(xy 57.15 78.74) (xy 57.15 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc4fb2a5-3e7c-4bd3-9a8f-92a8f942ad53")
+	)
+	(wire
+		(pts
+			(xy 113.03 59.69) (xy 113.03 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df22c0c6-837e-4eeb-a4ad-5fb12b719958")
+	)
+	(wire
+		(pts
+			(xy 205.74 111.76) (xy 208.28 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df61c974-314e-4126-b42f-9c39f5a4e1f6")
+	)
+	(wire
+		(pts
+			(xy 109.22 87.63) (xy 127 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfb74028-318c-4d0d-bd99-ec5c4072bfda")
+	)
+	(wire
+		(pts
+			(xy 52.07 68.58) (xy 71.12 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e93d72f1-5740-43e4-9be8-957f4c6f6c22")
+	)
+	(wire
+		(pts
+			(xy 95.25 59.69) (xy 95.25 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeea22a7-b0f4-4eb9-b415-729eb8500838")
+	)
+	(wire
+		(pts
+			(xy 68.58 59.69) (xy 71.12 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d21263-431e-4af6-914d-d261f7cd0f2b")
+	)
+	(wire
+		(pts
+			(xy 109.22 78.74) (xy 109.22 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3e29927-d9d6-4262-8b40-194ae5c63b1b")
+	)
+	(wire
+		(pts
+			(xy 132.08 52.07) (xy 132.08 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ec96e7-09e6-4d64-90cc-dbf6a2100508")
+	)
+	(wire
+		(pts
+			(xy 219.71 86.36) (xy 222.25 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57755ea-6707-40ae-b2ab-0858257fe12e")
+	)
+	(wire
+		(pts
+			(xy 127 86.36) (xy 127 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ff90c7-dec0-463a-ac0f-49eab081f80a")
+	)
+	(wire
+		(pts
+			(xy 205.74 115.57) (xy 208.28 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f786de5a-8ff2-4c36-832a-986e0e463208")
+	)
+	(wire
+		(pts
+			(xy 106.68 59.69) (xy 109.22 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f956ac74-c713-4336-9547-b6311a97d5f1")
+	)
+	(wire
+		(pts
+			(xy 71.12 68.58) (xy 71.12 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9ee30d3-1a1b-443a-af83-300c214a70ad")
+	)
+	(wire
+		(pts
+			(xy 71.12 59.69) (xy 71.12 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fae62397-d626-447a-80d7-8d824f9f958e")
+	)
+	(wire
+		(pts
+			(xy 127 67.31) (xy 127 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc62b4e8-d1e0-434d-bb6b-6a7d5e6ba4e4")
+	)
+	(wire
+		(pts
+			(xy 71.12 106.68) (xy 71.12 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fec5e473-2549-42fa-b0eb-f17553f6e34b")
+	)
+	(label "RRX"
+		(at 237.49 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "179b5bba-66a1-48e3-ad99-931bd319a5f6")
+	)
+	(label "row_4"
+		(at 205.74 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18164892-d7f9-4ade-bee4-fbd02906e291")
+	)
+	(label "column_1"
+		(at 57.15 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1a2c212f-97eb-4053-9551-b07bfc6484a6")
+	)
+	(label "R_GND"
+		(at 219.71 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1a3e3206-cbb2-44ce-afca-fafb146b2311")
+	)
+	(label "row_1"
+		(at 205.74 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1ce4514f-4b4d-429a-888b-042d7b61ffc1")
+	)
+	(label "R_GND"
+		(at 246.38 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f42c305-2877-4bb0-9849-529443167431")
+	)
+	(label "RRX"
+		(at 246.38 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e9a4bd9-faf7-4269-8aa0-c4ca0a6a3904")
+	)
+	(label "column_2"
+		(at 205.74 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "36d26438-3770-421f-ba6f-cd46e9197a0c")
+	)
+	(label "RRX"
+		(at 219.71 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3aeb38c2-150d-4f1a-8522-ad7f04a2f826")
+	)
+	(label "column_5"
+		(at 132.08 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5fc8f007-31d7-471c-9b4d-93560c10f609")
+	)
+	(label "column_4"
+		(at 113.03 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "64454750-1a61-4cf2-bf58-08fe80e864cd")
+	)
+	(label "R_3V3"
+		(at 246.38 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "650778a4-eb3d-46e0-b368-734c166efa45")
+	)
+	(label "row_2"
+		(at 52.07 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "670d83dc-9d1c-4e6a-869d-33dd1cad5531")
+	)
+	(label "RTX"
+		(at 219.71 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "67bda8f2-c8a7-44ba-bf4f-e74f6e3ea89a")
+	)
+	(label "column_5"
+		(at 246.38 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "689c51b9-3a71-496e-aefb-59ad2d6544e1")
+	)
+	(label "column_3"
+		(at 95.25 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6a4d0158-783f-4f4a-982d-78934d7c54ca")
+	)
+	(label "R_GND"
+		(at 237.49 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b2d2c08-6b8e-48e7-8502-0d3261b9fc97")
+	)
+	(label "column_4"
+		(at 246.38 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "771c296e-c200-4f66-bb73-576c903c4d2f")
+	)
+	(label "column_3"
+		(at 246.38 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e4305dc-3074-4c12-b4f9-9bdf927f3c8a")
+	)
+	(label "RTX"
+		(at 237.49 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "879af908-04e5-4c4c-818e-14318df02be0")
+	)
+	(label "R_3V3"
+		(at 237.49 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "898e1e4e-a813-4b10-8357-6c11624df03f")
+	)
+	(label "R_3V3"
+		(at 219.71 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8c768569-208b-41d7-845b-e1a538eb6791")
+	)
+	(label "row_3"
+		(at 205.74 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8e38bc98-db74-426f-a336-b86ed551934b")
+	)
+	(label "row_1"
+		(at 52.07 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8f23523e-e31d-4661-b24b-a9531b59fb62")
+	)
+	(label "row_2"
+		(at 205.74 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d2166280-791e-44b9-864b-82e9fe0b099e")
+	)
+	(label "column_1"
+		(at 205.74 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e0c24f87-1456-42fa-899e-e33b49ae4852")
+	)
+	(label "row_4"
+		(at 52.07 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e105effc-4792-42f2-84d9-aceddcae2468")
+	)
+	(label "RTX"
+		(at 205.74 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e97a78f2-0632-45bd-ae7e-201db1037552")
+	)
+	(label "row_3"
+		(at 52.07 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ee6a66d6-b1e3-421d-be61-14e4861b96cb")
+	)
+	(label "column_2"
+		(at 76.2 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6c57191-718c-4b18-9dd0-e137748e0001")
+	)
+	(hierarchical_label "Right_GND"
+		(shape input)
+		(at 222.25 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2d16a984-33fd-43b5-b19e-11fd7d4609b6")
+	)
+	(hierarchical_label "Right_TX"
+		(shape output)
+		(at 222.25 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8057f721-3e36-47de-a33d-da85926a046e")
+	)
+	(hierarchical_label "Right_3V3"
+		(shape output)
+		(at 222.25 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8fb03735-ac5a-4752-957d-f535a251ab13")
+	)
+	(hierarchical_label "Right_RX"
+		(shape input)
+		(at 222.25 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa384a01-6e91-4f88-ae42-cad6bb613e9f")
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 138.43 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0fa365c6-bc00-422d-a8a3-fa969e3d74a7")
+		(property "Reference" "SW29"
+			(at 138.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 138.43 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 138.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 138.43 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e740bf71-926a-41dc-a1b3-b3536fcf0a9e")
+		)
+		(pin "1"
+			(uuid "de3ba854-a30c-456b-8c48-5c6085e3a72a")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 127 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "129987e6-8cf7-44b3-bb07-e528fd7fc5f6")
+		(property "Reference" "D28"
+			(at 124.46 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 124.46 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 116.84 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.316 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 118.872 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 121.92 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c5b9444-34d5-4112-a927-2a266b32af5d")
+		)
+		(pin "2"
+			(uuid "332fb893-f2b9-4d91-83c3-476a42b85420")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 163.83 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14d3a530-1a4a-449e-9d44-5b53e1e8c88b")
+		(property "Reference" "D24"
+			(at 161.29 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 153.67 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.146 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 155.702 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 158.75 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c3b6790-ce66-49ce-9e9c-88efbbb356ad")
+		)
+		(pin "2"
+			(uuid "9c97f1e8-fe69-436f-95ba-85a8fc6bd2fd")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 63.5 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17fa4bda-5f0e-415b-af76-a912bd18985b")
+		(property "Reference" "SW35"
+			(at 63.5 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 63.5 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 63.5 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 63.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f030b547-710d-44c2-823c-1bd99aafc9c0")
+		)
+		(pin "1"
+			(uuid "5764f3de-59e8-43c3-b928-43fa0160a21d")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 63.5 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27f4473f-9d22-4103-b43b-7e0970a64c51")
+		(property "Reference" "SW31"
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 63.5 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 63.5 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c7f39c55-e593-45c3-afb2-c03ee50056f4")
+		)
+		(pin "1"
+			(uuid "6471e6e2-3a0f-41c9-b6da-1540eee19d6f")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 156.21 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3face3b8-8c2e-42aa-841a-3d16b3184388")
+		(property "Reference" "SW30"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 156.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 156.21 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7a2b422c-7d15-49b4-b076-c1821f7d1d01")
+		)
+		(pin "1"
+			(uuid "cdc06550-4687-4060-8fdb-369974761fc1")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 146.05 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49601f76-79a4-4f24-b908-2a1b030f3f2d")
+		(property "Reference" "D23"
+			(at 143.51 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 143.51 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 135.89 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.366 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 137.922 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "adb78c74-271d-4edf-ac0f-bd8441904003")
+		)
+		(pin "2"
+			(uuid "b939cb6d-4739-4462-8b20-63815679391f")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 101.6 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b2da34e-4cae-4142-a841-835cc3f99b2c")
+		(property "Reference" "SW33"
+			(at 101.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 101.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a11881cc-8b6e-47e1-a1e2-68f6a2b5f340")
+		)
+		(pin "1"
+			(uuid "486ca6dc-d969-40ff-8dce-b5508f34c8b0")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 156.21 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4cb23c54-6f91-4288-8114-8c75e103dc8a")
+		(property "Reference" "SW24"
+			(at 156.21 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 156.21 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 156.21 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 156.21 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e69bca60-5620-476b-8352-9bbed8f63393")
+		)
+		(pin "1"
+			(uuid "2c49b17e-5a3e-492e-ba8f-75295c7a162f")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 82.55 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56099756-214b-4861-a03a-c7fd2127abd0")
+		(property "Reference" "SW26"
+			(at 82.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 82.55 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 82.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 82.55 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4363e2d4-b70e-40bf-897e-32ae6b1ffe17")
+		)
+		(pin "1"
+			(uuid "70ec9204-a4cc-49c2-95a6-656ca6aa1421")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 71.12 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "60e2c1b6-6182-41b6-9ef7-352b8261f584")
+		(property "Reference" "D19"
+			(at 68.58 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 68.58 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 60.96 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.436 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.992 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 66.04 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48cf3c54-ba6e-4d96-8335-2539e3bbe2cc")
+		)
+		(pin "2"
+			(uuid "5aa34280-ba15-4c06-9cbc-3f0467e01360")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 119.38 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63085c0b-981f-439f-aae6-47e87e24fd91")
+		(property "Reference" "SW22"
+			(at 119.38 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 119.38 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 119.38 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 119.38 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8e38a093-62a6-46d2-8193-a5655c0afde2")
+		)
+		(pin "1"
+			(uuid "078b6e54-24fb-4be4-a32c-0326798d9d47")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 90.17 121.92 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "68d2d5b5-48ca-4a43-88d6-0617cb4ac771")
+		(property "Reference" "D36"
+			(at 87.63 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 87.63 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 80.01 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.486 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 82.042 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 85.09 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18163469-8835-4d85-8319-5fdf5aff7b07")
+		)
+		(pin "2"
+			(uuid "46987e63-d468-42c3-8baa-6bbb6ca0e774")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 63.5 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ac094e8-2618-44a5-8822-a2c3535bf763")
+		(property "Reference" "SW19"
+			(at 63.5 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 63.5 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 63.5 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 63.5 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "72a06066-911e-46fd-a0b2-3771c69565e0")
+		)
+		(pin "1"
+			(uuid "9959708e-6b17-4205-9f4f-4a229b6fb0ed")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 90.17 102.87 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e311295-1a7e-47de-accb-71b5373e5eb1")
+		(property "Reference" "D32"
+			(at 87.63 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 87.63 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 80.01 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.486 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 82.042 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 85.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e098b880-7b48-4a00-a668-17dc095ecd62")
+		)
+		(pin "2"
+			(uuid "d5f003ba-cb2c-48d0-ae60-8b232f1abf1e")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 90.17 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "716b2aa3-84c9-4445-95ae-14f09f8233a9")
+		(property "Reference" "D20"
+			(at 87.63 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 87.63 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 80.01 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.486 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 82.042 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 85.09 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7af14488-c91c-4094-8018-b33247f7d14c")
+		)
+		(pin "2"
+			(uuid "17f00026-7cbd-499c-8f31-f82e0d263791")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 109.22 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "71759449-85ce-4598-aca9-2a0dea4e07e9")
+		(property "Reference" "D21"
+			(at 106.68 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 106.68 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 99.06 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.536 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 101.092 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 104.14 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "785826df-be2c-46e5-94e9-a182d697b1ab")
+		)
+		(pin "2"
+			(uuid "c167b22e-89da-4934-afae-8f7374290436")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 119.38 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "927a5be9-e620-49fe-b4a1-1782a1ba5aea")
+		(property "Reference" "SW34"
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 119.38 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 119.38 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6216b120-fd4d-4b2c-8a6d-b48c8a572a70")
+		)
+		(pin "1"
+			(uuid "2d683a56-1434-40ba-b44a-375404a81855")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 109.22 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93f57f5b-9f99-42ed-8c13-de87dc9afba5")
+		(property "Reference" "D27"
+			(at 106.68 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 106.68 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 99.06 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.536 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 101.092 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6d40900-2958-4b78-9e42-98c87c3b66e9")
+		)
+		(pin "2"
+			(uuid "96709c49-5839-4d24-abbe-0f2e77e8bc5a")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 82.55 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9751e508-dbf0-44bc-8962-f945654f7d93")
+		(property "Reference" "SW32"
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 82.55 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 82.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fbf81ac2-851c-4a33-8da5-ebcbedbe9e47")
+		)
+		(pin "1"
+			(uuid "79fcfb4f-0805-4036-ae2a-bba8710579f3")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 138.43 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ff31fe0-27c0-42ea-a5d2-2c017e912f3e")
+		(property "Reference" "SW23"
+			(at 138.43 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 138.43 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 138.43 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 138.43 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a36f04bc-112a-44d5-b04f-ede8b956fe27")
+		)
+		(pin "1"
+			(uuid "63155027-7a08-43a5-a932-a6bfe9f13095")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 71.12 102.87 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a05269c9-b8cd-4631-8c85-aed8e5f5d0a3")
+		(property "Reference" "D31"
+			(at 69.596 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 68.58 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 60.96 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.436 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.992 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 66.04 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a51c74dd-f4aa-4502-a15a-b6ee981d6064")
+		)
+		(pin "2"
+			(uuid "2e3fb843-d5fe-4347-8a18-ad9c786cc4fe")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 90.17 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5646f0d-0f39-447f-939b-03dbdf1e8673")
+		(property "Reference" "D26"
+			(at 87.63 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 87.63 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 80.01 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.486 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 82.042 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 85.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d925c4e-3287-4ab0-8ba9-c7b9d3a7d790")
+		)
+		(pin "2"
+			(uuid "31290ddb-3068-4d47-81e6-d8e04bc0a9d6")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP")
+		(at 212.09 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9438746-980b-4e10-99d2-f211f0fa9016")
+		(property "Reference" "U2"
+			(at 226.06 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XIAO-RP2040-DIP"
+			(at 226.06 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
+			(at 226.568 131.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 212.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "12"
+			(uuid "92a7038a-0f83-4c8b-8298-211ec0e0f6a9")
+		)
+		(pin "8"
+			(uuid "9f39da49-d73f-4a37-8eb1-2f99f7c1379e")
+		)
+		(pin "10"
+			(uuid "c8cba0c8-c205-45aa-9b83-6d557b8e2afb")
+		)
+		(pin "6"
+			(uuid "249e334d-63f8-4ff5-b038-633cc8306ecc")
+		)
+		(pin "7"
+			(uuid "ae3dd06f-d6f5-44ef-ae1b-ac86d3a8475c")
+		)
+		(pin "3"
+			(uuid "8c22c7f0-5236-4467-b2dd-541a08f0ad62")
+		)
+		(pin "14"
+			(uuid "ad14097d-755f-4af6-8fc1-e7f6b19ee233")
+		)
+		(pin "1"
+			(uuid "eafb88a9-8261-49f6-8908-6715831217d2")
+		)
+		(pin "13"
+			(uuid "3aaf971e-691a-4ce6-ab5a-624cb9ba1d4e")
+		)
+		(pin "4"
+			(uuid "bf635eaf-53d0-4fd2-bb10-ced22dae74e3")
+		)
+		(pin "5"
+			(uuid "2bcfe75c-8275-423a-84c6-545438d632e1")
+		)
+		(pin "11"
+			(uuid "2d50cf02-9e91-4255-a4b3-4f551eeafdd8")
+		)
+		(pin "9"
+			(uuid "1ac6e845-d4f4-48b7-b6dd-e2c23acb6490")
+		)
+		(pin "2"
+			(uuid "9a091183-d3e2-4fb0-9bfa-847dfd56c0ca")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 163.83 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b43b7bc9-4a97-41ea-8021-60a2dd7439d8")
+		(property "Reference" "D30"
+			(at 161.29 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 161.29 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 153.67 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.146 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 155.702 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 158.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0dbe99f3-20bf-4ba2-89cc-2abba2a0e6d5")
+		)
+		(pin "2"
+			(uuid "523293cb-9b89-458d-8944-8f869a648a0f")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 127 102.87 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7709dd8-2d5d-476f-8556-d7a2c83d353b")
+		(property "Reference" "D34"
+			(at 124.46 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 124.46 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 116.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.316 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 118.872 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 121.92 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bff7306f-36aa-49f5-9791-9b0a40700e85")
+		)
+		(pin "2"
+			(uuid "4dbb7a5d-b689-40e4-9679-fafb5fb154bf")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 101.6 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb55042b-57db-48ec-a2b8-c15f9c335e97")
+		(property "Reference" "SW21"
+			(at 101.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 101.6 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 101.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "50d670bc-77a2-4f3d-b4a1-2d531ed9fb3d")
+		)
+		(pin "1"
+			(uuid "a9d8bd82-687d-45b2-a24c-ca030901e167")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 109.22 102.87 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c1193f8f-aff3-4a9e-90ed-a1133c1b1b7e")
+		(property "Reference" "D33"
+			(at 106.68 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 106.68 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 99.06 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.536 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 101.092 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 104.14 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4bedb68b-8a2b-41da-b6fa-adb2441f6b9d")
+		)
+		(pin "2"
+			(uuid "1a2aeeac-ee05-4c7d-a512-85b1957a919a")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 82.55 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2b8c904-92f0-44df-ad89-9b7e39bbc077")
+		(property "Reference" "SW20"
+			(at 82.55 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 82.55 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 82.55 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2e6fa1d6-62ab-43d8-bb97-a68bc61e9353")
+		)
+		(pin "1"
+			(uuid "738f19a7-71d0-4b3a-996e-ee58223e1a9d")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 146.05 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c53fe689-5eca-4668-98ae-5a5343d69543")
+		(property "Reference" "D29"
+			(at 143.51 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 143.51 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 135.89 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.366 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 137.922 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 140.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ea75fc9-0ac7-4caa-bfe7-3540d19d16a7")
+		)
+		(pin "2"
+			(uuid "8026b051-cfd9-44ff-be31-fa660ecee1d9")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 127 64.77 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0682b50-5957-4a3a-ac37-a20377781f0c")
+		(property "Reference" "D22"
+			(at 124.46 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 124.46 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 116.84 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.316 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 118.872 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 121.92 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "623765aa-fb4b-4ed3-99f8-98b3fb5f0d2f")
+		)
+		(pin "2"
+			(uuid "e4d59592-c384-45fd-bb92-470126ae49ba")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 119.38 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d63b13f8-1a39-419a-9a90-bdc5edb9977e")
+		(property "Reference" "SW28"
+			(at 119.38 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 119.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 119.38 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3b000f07-aee2-4fc0-8203-11c233da3f08")
+		)
+		(pin "1"
+			(uuid "52fa1264-df9a-4901-98dc-9a6936ffb9b5")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 101.6 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d988aed9-0540-4de5-9da2-e17e1370e2f6")
+		(property "Reference" "SW27"
+			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 101.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 101.6 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f55dc254-b6e3-4642-88ef-6c02a15757d3")
+		)
+		(pin "1"
+			(uuid "7bb1bfd2-77c6-47a2-a199-57cdba4a1de0")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 71.12 83.82 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d9a62ea2-8fcf-4961-a3d0-687b16f6148e")
+		(property "Reference" "D25"
+			(at 68.58 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 68.58 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 60.96 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.436 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.992 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 66.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1da931a1-ac9e-48d9-90cc-6286e54ada24")
+		)
+		(pin "2"
+			(uuid "a6fc4e74-6d55-4d2d-bae4-9120b30a9d5e")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 63.5 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2abc6a7-fedf-4e98-b00a-3ba3a6e32e81")
+		(property "Reference" "SW25"
+			(at 63.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 63.5 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 63.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 63.5 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e41f1cce-1d3e-413c-b1e4-c30207213bed")
+		)
+		(pin "1"
+			(uuid "51244d59-6037-4176-851f-fe18dcf8b335")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_DIODE")
+		(at 71.12 121.92 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6e33de0-fbb1-4501-90ba-a34e5e2a590a")
+		(property "Reference" "D35"
+			(at 68.58 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Val"
+			(at 68.58 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+			(at 60.96 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.436 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.992 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "~"
+			(at 66.04 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6e7cee2-0eda-4396-8631-b4665719c4d9")
+		)
+		(pin "2"
+			(uuid "0438dbb4-1e5e-48df-904e-b625a717a574")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:GENERIC_ELECTROMECHANICAL_PUSHBUTTON")
+		(at 82.55 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebe7d2f2-f3ff-4efd-b3f8-b693660da649")
+		(property "Reference" "SW36"
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GENERIC_ELECTROMECHANICAL_PUSHBUTTON"
+			(at 82.55 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:GatereonHotswap"
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c7ef102b-d47b-4305-b89a-17bc5438256e")
+		)
+		(pin "1"
+			(uuid "4fdf760a-990a-4790-99de-45ccf18fa866")
+		)
+		(instances
+			(project "keyboard-split-splay-5x3+2-pinky-cluster"
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "SW36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "benri-projects:CONNECTOR_TENSILITY_54-00176")
+		(at 229.87 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f50b81cf-8d2d-4abe-934f-57ef75de80aa")
+		(property "Reference" "J2"
+			(at 218.948 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 229.87 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "benri-projects:TENSILITY_54-00176_R"
+			(at 229.87 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/uploads/pdffiles/54-00176.pdf"
+			(at 229.87 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TRRS TR-SWITCHEDm 4C audio jack 3.5xL14 mm thru hole gold plated"
+			(at 229.87 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b52194ef-ede9-47d4-89d0-cf8fc0c0860c")
+		)
+		(pin "3"
+			(uuid "e394e7de-e97b-450c-8dd2-fb19258525ac")
+		)
+		(pin "6"
+			(uuid "82b36bb2-2f2b-4cb7-94b7-22012a050696")
+		)
+		(pin "2"
+			(uuid "b78910c4-36c8-4c41-abed-87559a20b4a4")
+		)
+		(pin "4"
+			(uuid "771e32b6-a5d8-4611-9148-92d195448e5b")
+		)
+		(pin "5"
+			(uuid "2af6b001-c58d-4f63-90a7-63a73f2d456a")
+		)
+		(instances
+			(project ""
+				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
