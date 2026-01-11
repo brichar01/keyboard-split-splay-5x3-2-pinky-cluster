@@ -2119,16 +2119,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 111.76) (xy 246.38 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84418137-ce13-478b-9cad-8e9cc1c0bc0a")
-	)
-	(wire
-		(pts
 			(xy 146.05 59.69) (xy 146.05 62.23)
 		)
 		(stroke
@@ -2236,6 +2226,16 @@
 			(type default)
 		)
 		(uuid "94206036-2c6a-46ef-b535-d6cf6f1a3ef5")
+	)
+	(wire
+		(pts
+			(xy 243.84 104.14) (xy 246.38 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ce71644-020c-44a6-ad38-77067fb1dc66")
 	)
 	(wire
 		(pts
@@ -2797,8 +2797,8 @@
 		)
 		(uuid "64454750-1a61-4cf2-bf58-08fe80e864cd")
 	)
-	(label "R_3V3"
-		(at 246.38 111.76 0)
+	(label "R_5V"
+		(at 246.38 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2887,7 +2887,7 @@
 		)
 		(uuid "879af908-04e5-4c4c-818e-14318df02be0")
 	)
-	(label "R_3V3"
+	(label "R_5V"
 		(at 237.49 50.8 0)
 		(effects
 			(font
@@ -2897,7 +2897,7 @@
 		)
 		(uuid "898e1e4e-a813-4b10-8357-6c11624df03f")
 	)
-	(label "R_3V3"
+	(label "R_5V"
 		(at 219.71 86.36 180)
 		(effects
 			(font
@@ -3009,7 +3009,7 @@
 		)
 		(uuid "8057f721-3e36-47de-a33d-da85926a046e")
 	)
-	(hierarchical_label "Right_3V3"
+	(hierarchical_label "Right_5V"
 		(shape output)
 		(at 222.25 86.36 0)
 		(effects
@@ -3058,7 +3058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 138.43 73.66 0)
 			(effects
 				(font
@@ -3294,7 +3294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 63.5 111.76 0)
 			(effects
 				(font
@@ -3372,7 +3372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 63.5 92.71 0)
 			(effects
 				(font
@@ -3450,7 +3450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 156.21 73.66 0)
 			(effects
 				(font
@@ -3607,7 +3607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 101.6 92.71 0)
 			(effects
 				(font
@@ -3685,7 +3685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 156.21 54.61 0)
 			(effects
 				(font
@@ -3763,7 +3763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 82.55 73.66 0)
 			(effects
 				(font
@@ -3920,7 +3920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 119.38 54.61 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 63.5 54.61 0)
 			(effects
 				(font
@@ -4392,7 +4392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 119.38 92.71 0)
 			(effects
 				(font
@@ -4549,7 +4549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 82.55 92.71 0)
 			(effects
 				(font
@@ -4627,7 +4627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 138.43 54.61 0)
 			(effects
 				(font
@@ -5125,7 +5125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 101.6 54.61 0)
 			(effects
 				(font
@@ -5282,7 +5282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 82.55 54.61 0)
 			(effects
 				(font
@@ -5518,7 +5518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 119.38 73.66 0)
 			(effects
 				(font
@@ -5596,7 +5596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 101.6 73.66 0)
 			(effects
 				(font
@@ -5753,7 +5753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 63.5 73.66 0)
 			(effects
 				(font
@@ -5910,7 +5910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "benri-projects:GatereonHotswap"
+		(property "Footprint" "benri-projects:GATEREON_KS-2P02B01-01-a_R"
 			(at 82.55 111.76 0)
 			(effects
 				(font

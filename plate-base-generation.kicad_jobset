@@ -1,0 +1,148 @@
+{
+  "jobs": [
+    {
+      "description": "Generate Plate",
+      "id": "700aa64b-5aec-4641-afe3-e360cef47c5d",
+      "settings": {
+        "black_and_white": true,
+        "color_theme": "",
+        "crossout_dnp_footprints_on_fab_layers": false,
+        "description": "",
+        "drawing_sheet": "",
+        "drill_shape": "none",
+        "fit_page_to_board": false,
+        "gen_mode": "multi",
+        "hide_dnp_footprints_on_fab_layers": false,
+        "layers": [
+          "In30.Cu",
+          "In29.Cu",
+          "In28.Cu",
+          "In27.Cu",
+          "In26.Cu",
+          "In25.Cu",
+          "In24.Cu",
+          "In23.Cu",
+          "In22.Cu",
+          "In21.Cu",
+          "In20.Cu",
+          "In19.Cu",
+          "In18.Cu",
+          "In17.Cu",
+          "In16.Cu",
+          "In15.Cu",
+          "In14.Cu",
+          "In13.Cu",
+          "In12.Cu",
+          "In11.Cu",
+          "In10.Cu",
+          "In9.Cu",
+          "In8.Cu",
+          "In7.Cu",
+          "In6.Cu",
+          "In5.Cu",
+          "In4.Cu",
+          "In3.Cu",
+          "In2.Cu",
+          "In1.Cu",
+          "User.2"
+        ],
+        "layers_to_include_on_all_layers": [
+          "B.CrtYd",
+          "User.2",
+          "Edge.Cuts"
+        ],
+        "mirror": false,
+        "negative": false,
+        "output_filename": "",
+        "plot_drawing_sheet": false,
+        "plot_footprint_values": true,
+        "plot_pad_numbers": false,
+        "plot_ref_des": true,
+        "precision": 4,
+        "sketch_dnp_footprints_on_fab_layers": false,
+        "sketch_pads_on_fab_layers": false,
+        "subtract_solder_mask_from_silk": false,
+        "use_drill_origin": false
+      },
+      "type": "pcb_export_svg"
+    },
+    {
+      "description": "GenerateBase",
+      "id": "bb5ac9ee-9e90-4c68-9686-8aa746df5c7b",
+      "settings": {
+        "black_and_white": true,
+        "color_theme": "",
+        "crossout_dnp_footprints_on_fab_layers": false,
+        "description": "",
+        "drawing_sheet": "",
+        "drill_shape": "none",
+        "fit_page_to_board": false,
+        "gen_mode": "multi",
+        "hide_dnp_footprints_on_fab_layers": false,
+        "layers": [
+          "In30.Cu",
+          "In29.Cu",
+          "In28.Cu",
+          "In27.Cu",
+          "In26.Cu",
+          "In25.Cu",
+          "In24.Cu",
+          "In23.Cu",
+          "In22.Cu",
+          "In21.Cu",
+          "In20.Cu",
+          "In19.Cu",
+          "In18.Cu",
+          "In17.Cu",
+          "In16.Cu",
+          "In15.Cu",
+          "In14.Cu",
+          "In13.Cu",
+          "In12.Cu",
+          "In11.Cu",
+          "In10.Cu",
+          "In9.Cu",
+          "In8.Cu",
+          "In7.Cu",
+          "In6.Cu",
+          "In5.Cu",
+          "In4.Cu",
+          "In3.Cu",
+          "In2.Cu",
+          "In1.Cu",
+          "Edge.Cuts"
+        ],
+        "layers_to_include_on_all_layers": [
+          "User.2"
+        ],
+        "mirror": false,
+        "negative": false,
+        "output_filename": "",
+        "plot_drawing_sheet": false,
+        "plot_footprint_values": true,
+        "plot_pad_numbers": false,
+        "plot_ref_des": true,
+        "precision": 4,
+        "sketch_dnp_footprints_on_fab_layers": false,
+        "sketch_pads_on_fab_layers": false,
+        "subtract_solder_mask_from_silk": false,
+        "use_drill_origin": false
+      },
+      "type": "pcb_export_svg"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "61eb45d7-58b3-46f5-b434-a7bfe047a2a6",
+      "only": [],
+      "settings": {
+        "output_path": "plate-base-generation"
+      },
+      "type": "folder"
+    }
+  ]
+}
