@@ -620,196 +620,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "benri-projects:CONNECTOR_JST_SM04B-SRSS-TB"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -0.254 6.858 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CONNECTOR_JST_SM04B-SRSS-TB_1_1"
-				(rectangle
-					(start -1.27 5.08)
-					(end 1.27 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 3.937)
-					(end 0 3.683)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 1.397)
-					(end 0 1.143)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -1.143)
-					(end 0 -1.397)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -3.683)
-					(end 0 -3.937)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 1.27 0)
-					(length 3.81)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -1.27 0)
-					(length 3.81)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -3.81 0)
-					(length 3.81)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "benri-projects:GENERIC_DIODE"
 			(pin_numbers
 				(hide yes)
@@ -1508,16 +1318,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 64.77) (xy 228.6 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c075caa-cc46-4b43-9791-72738070582b")
-	)
-	(wire
-		(pts
 			(xy 163.83 106.68) (xy 127 106.68)
 		)
 		(stroke
@@ -1898,6 +1698,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 86.36) (xy 163.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "619f9264-03cf-48fb-9dc4-783feaaf34f7")
+	)
+	(wire
+		(pts
 			(xy 57.15 59.69) (xy 58.42 59.69)
 		)
 		(stroke
@@ -1948,16 +1758,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 86.36) (xy 163.83 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "659a941e-64a8-41bf-9177-7295c34575c7")
-	)
-	(wire
-		(pts
 			(xy 243.84 127) (xy 246.38 127)
 		)
 		(stroke
@@ -2005,16 +1805,6 @@
 			(type default)
 		)
 		(uuid "765adf17-1f87-46c4-9d03-9cee6d68c016")
-	)
-	(wire
-		(pts
-			(xy 223.52 72.39) (xy 228.6 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "776b4bba-18a6-4a58-a8f5-5bb4cf11f831")
 	)
 	(wire
 		(pts
@@ -2105,16 +1895,6 @@
 			(type default)
 		)
 		(uuid "85dcfb63-04ff-4990-b56d-0d9c4e1fc0eb")
-	)
-	(wire
-		(pts
-			(xy 223.52 69.85) (xy 228.6 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "893efca0-460c-414c-9090-097804bbdbc9")
 	)
 	(wire
 		(pts
@@ -2375,16 +2155,6 @@
 			(type default)
 		)
 		(uuid "c2e83816-0ca3-4725-b178-2ac12efa2d07")
-	)
-	(wire
-		(pts
-			(xy 223.52 67.31) (xy 228.6 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8a2f1f9-8a59-48a9-8423-30e76a180808")
 	)
 	(wire
 		(pts
@@ -2656,16 +2426,6 @@
 		)
 		(uuid "fec5e473-2549-42fa-b0eb-f17553f6e34b")
 	)
-	(label "RRX"
-		(at 228.6 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "179b5bba-66a1-48e3-ad99-931bd319a5f6")
-	)
 	(label "row_4"
 		(at 205.74 115.57 180)
 		(effects
@@ -2816,16 +2576,6 @@
 		)
 		(uuid "6a4d0158-783f-4f4a-982d-78934d7c54ca")
 	)
-	(label "R_GND"
-		(at 228.6 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6b2d2c08-6b8e-48e7-8502-0d3261b9fc97")
-	)
 	(label "column_4"
 		(at 246.38 119.38 0)
 		(effects
@@ -2845,26 +2595,6 @@
 			(justify left bottom)
 		)
 		(uuid "7e4305dc-3074-4c12-b4f9-9bdf927f3c8a")
-	)
-	(label "RTX"
-		(at 228.6 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "879af908-04e5-4c4c-818e-14318df02be0")
-	)
-	(label "R_5V"
-		(at 228.6 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "898e1e4e-a813-4b10-8357-6c11624df03f")
 	)
 	(label "R_5V"
 		(at 219.71 86.36 180)
@@ -3126,7 +2856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 116.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3219,7 +2949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 153.67 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3588,7 +3318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 135.89 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3957,7 +3687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 60.96 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4142,7 +3872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 80.01 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4327,7 +4057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 80.01 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4420,7 +4150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 80.01 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4513,7 +4243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 99.06 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4567,93 +4297,6 @@
 			(project "keyboard-split-splay-5x3+2-pinky-cluster"
 				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
 					(reference "D21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "benri-projects:CONNECTOR_JST_SM04B-SRSS-TB")
-		(at 218.44 68.58 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7784f45a-5049-40d7-92a6-fd364dc24747")
-		(property "Reference" "J2"
-			(at 218.44 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 218.44 68.58 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a2dab24a-197b-40d8-b059-ea36c7ce3b57")
-		)
-		(pin "2"
-			(uuid "e23410ee-6dcf-40f3-a414-04aae532f073")
-		)
-		(pin "3"
-			(uuid "e9d0a2c6-a253-441d-8b51-5f66db3d2352")
-		)
-		(pin "4"
-			(uuid "57e0fe65-34a0-4e4e-a0b9-848f228442d5")
-		)
-		(instances
-			(project "keyboard-split-splay-5x3+2-pinky-cluster"
-				(path "/81ff113e-ae40-4f69-bd5b-ccd6a1ee23eb/1e51f56e-c3ed-4ee6-89f9-75995dd4f842"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4785,7 +4428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 99.06 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5062,7 +4705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 60.96 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5155,7 +4798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 80.01 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5246,7 +4889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "benri-projects:SEEED_XIAO-RP2040_T-DIP"
 			(at 226.568 131.318 0)
 			(hide yes)
 			(show_name no)
@@ -5364,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 153.67 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5457,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 116.84 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5642,7 +5285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 99.06 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5827,7 +5470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 135.89 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5920,7 +5563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 116.84 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6197,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 60.96 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6382,7 +6025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "benri-projects:DIODES_SOD232_R"
+		(property "Footprint" "benri-projects:GENERIC_DO-35_A"
 			(at 60.96 121.92 0)
 			(hide yes)
 			(show_name no)
